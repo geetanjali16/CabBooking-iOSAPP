@@ -1,0 +1,6 @@
+framework module Pods_ClickNride {
+  umbrella header "Pods-ClickNride-umbrella.h"
+
+  export *
+  module * { export * }
+}
